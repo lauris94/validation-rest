@@ -1,0 +1,20 @@
+{
+  "type": "ANALYSIS",
+  "department": "GOoD analysis department",
+  "start_date": "2020-08-13",
+  "end_date": "2020-08-15",
+  "currency": "USD",
+  "cost": 123.12,
+  "parts": [
+    {
+      "inventory_number": "InventoryNumber1",
+      "name": "PartNumber1",
+      "count": 1
+    },
+    {
+      "inventory_number": "InventoryNumber2",
+      "name": "PartNumber2",
+      "count": 2
+    }
+  ]
+}

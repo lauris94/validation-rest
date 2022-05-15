@@ -1,0 +1,22 @@
+{
+  "type": "REPLACEMENT",
+  "department": "GOoD replacement department",
+  "start_date": "2020-08-13",
+  "end_date": "2020-08-16",
+  "factory_name": "GOoD factory",
+  "factory_order_number": "DE12345678",
+  "currency": "USD",
+  "cost": 123.12,
+  "parts": [
+    {
+      "inventory_number": "InventoryNumber5",
+      "name": "PartNumber5",
+      "count": 5
+    },
+    {
+      "inventory_number": "InventoryNumber6",
+      "name": "PartNumber6",
+      "count": 6
+    }
+  ]
+}

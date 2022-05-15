@@ -1,0 +1,23 @@
+{
+  "type": "REPAIR",
+  "department": "GOoD repair department",
+  "start_date": "2020-08-13",
+  "end_date": "2020-08-16",
+  "analysis_date": "2020-08-14",
+  "test_date": "2020-08-15",
+  "responsible_person": "GOoD repair master",
+  "currency": "USD",
+  "cost": 123.12,
+  "parts": [
+    {
+      "inventory_number": "InventoryNumber3",
+      "name": "PartNumber3",
+      "count": 3
+    },
+    {
+      "inventory_number": "InventoryNumber4",
+      "name": "PartNumber4",
+      "count": 4
+    }
+  ]
+}
